@@ -1,0 +1,16 @@
+<section>
+	<h2 class="collective-header">Професорсько-викладацький склад кафедри інформаційних технологій видавничої справи</h2>
+	<div class="collective">
+		<div ng-repeat="teacher in collective" class="teacher collective">
+			<div class="book">
+				<div class="teacher-foto"><img src="{{teacher.foto}}" width="100%;" height="100%" /></div>
+			 	<div class="teacher-info">
+				 	<p>{{teacher.name}}</p>
+				 	<p>{{teacher.position}}</p>
+				 	<p>{{teacher.email}}</p>
+				 	<p ng-if="teacher.link"><a href="{{teacher.link}}" target="_blank">детальніше тут</a></p>
+			 	</div>
+			 </div>
+		</div>
+	</div>
+</section>

@@ -1,0 +1,201 @@
+[
+	{
+		"titl": "VII Міжнародна науково-технічна конференція «Комп'ютерні науки та інформаційні технології",
+		"titlEng": "VII International Scientific and Technical Conference «Computer Sciences and Information Technologies» - CSIT’2012",
+		"achievement" : {
+			"1" : "Толстіков Євген (ВПВм) (співавтор доповіді «Reconstruction of speech signal based on Zernike moments»).",
+			"2" : "Вербенко Ірина (ВПВм), Міщук Олександра (ВПВм) (співавтори доповіді «A fuzzy control Scheme of gantry  cart’s position»)."
+		},
+		"date" : "20-24 листопада 2012 р., м. Львів",
+		"type" : "students",
+		"foto" : false,
+		"content": false,
+		"link": false
+	},
+	{
+		"titl": "ХІІ міжнародна науково-технічна конференція «Досвід розробки та застосування приладо-технологічних САПР в мікроелектроніці»",
+		"titlEng": "12-th International Conference The Experience Of Designing And Application Of Cad Systems In Microelectronics – CADSM’13",
+		"achievement": {
+			"1" : "Сорока Катерина (ВПВм) (співавтор доповіді «Research of usage of haar-like features and adaboost algorithm in viola-jones method of object detection»).",
+			"2" : "Угольков Артем (ВПВм) (співавтор доповіді «The Advantages and Disadvantages of HTML 5»)."
+		},
+		"date": "(Polyana Svalyava (Zakarpattya) UKRAINE 19 - 23 February 2013",
+		"type" : "students",
+		"foto": false,
+		"content": false,
+		"link": false
+	},
+	{
+		"titl": "IХ Міжнародна наукова конференція «Інтелектуальні системи прийняття рішень та проблеми обчислювального інтелекту»  (ISDMCI’2013) ",
+		"titlEng": false,
+		"achievement": {
+			"1" : "Антонюм Марія (ВП-31), Грицик Катерина (ВП-31) (співавтори доповіді «Розроблення моделі загроз для графічного захисту у друкованих документах»).",
+			"2" : "Петречків Микола (ВП-41) (співавтор доповіді «Концепція «живих» програм»).",
+			"3" : "Кіт Соломія (ВПВс) , Петречків Микола (ВП-41) (співавтори доповіді «Огляд методів розробки сайтів»)."
+		},
+		"date": "(20–24 травня 2013 р. , м. Євпаторія)",
+		"type" : "students",
+		"foto": false,
+		"content": false,
+		"link": false
+	},
+	{
+		"titl": "IІ Міжнародна науково-технічна конференція «Захист інформації і безпека інформаційних систем»",
+		"titlEng": false,
+		"achievement": {
+			"1" : "Петречків Микола (ВП-41) (співавтор доповіді «Схеми відновлення для розподілених обчислень на основі ідеальних кільцевих відношень»)"
+		},
+		"date": "20-24 листопада 2012 р., м. Львів",
+		"type" : "students",
+		"foto": false,
+		"content": false,
+		"link": false
+	},
+	{
+		"titl": "Міжнародна науково-практична конференція аспірантів і студентів «Інженерія програмного забезпечення-2013»",
+		"titlEng": false,
+		"achievement": {
+			"1" : "Якимович Анастасія (ВПВс) (автор доповіді «Спеціалізована тема Windows 7 як додатковий елемент айдентики навчального закладу»)."
+		},
+		"date": "24-28 червня 2013 р, м. Київ",
+		"type" : "students",
+		"foto": false,
+		"content": false,
+		"link": false
+	},
+	{
+		"titl": "17-ий Міжнародній молодіжний форум «Радіоелектроніка і молодь в XXI столітті»",
+		"titlEng": false,
+		"achievement": {
+			"1" : "Якимович Анастасія (ВПВс) (автор доповіді «Спеціалізована тема  Windows 7 як елемент фірмового стилю навчального закладу»)"
+		},
+		"date": "22 – 24 квітня 2013 р., м. Харків",
+		"type" : "students",
+		"foto": false,
+		"content": false,
+		"link": false
+	},
+	{
+		"titl": "ІІ всеукраїнська науково-практична конференція «Комп’ютерне моделювання та програмне забезпечення інформаційних систем і технологій» КМПЗ’2013",
+		"titlEng": false,
+		"achievement": {
+			"1" : "Петречків Микола (ВПВс) (співавтор доповіді «Концептуально-орієнтовані мови програмування»)."
+		},
+		"date": "31 травня 2013 р., м. Львів",
+		"type" : "students",
+		"foto": false,
+		"content": false,
+		"link": false
+	},
+	{
+		"titl": "ІІ Міжнародна науково-технічна конференція «Обчислювальний інтелект»",
+		"titlEng": false,
+		"achievement": {
+			"1" : "Петречків Микола (ВПВс) (співавтор доповіді «Дослідження та використання завадостійких кодів для захисту графічних зображень»)."
+		},
+		"date": "14-18 травня 2013 р., м. Черкаси",
+		"type" : "students",
+		"foto": false,
+		"content": false,
+		"link": false
+	},
+	{
+		"titl": false,
+		"titlEng": "VIІI-th International Conference of Computer Science & Information Technologies 2013 (CSIT'2013) ",
+		"achievement": {
+			"1" : "Якимович Анастасія (ВПВс) (співавтор доповіді «Development of Additional Element University Corporate Identity Based On Specialized Windows 7 Themes»)"
+		},
+		"date": "Lviv, Ukraine, 11-16 November 2013",
+		"type" : "students",
+		"foto": false,
+		"content": false,
+		"link": false
+	},
+	{
+		"titl": "IV Всеукраїнська науково-практична конференція «Сучасні інформаційні технології в економіці, менеджменті та освіті» (СІТЕМ-2014)",
+		"titlEng": false,
+		"achievement": {
+			"1" : "Прострельчук Василь (ВП-31), Тустановський Мирослав (ВП-31) (співавтои доповіді «Комп’ютерна технологія покращення чіткості растрових зображень»)."
+		},
+		"date": "м. Львів, Україна, 20 березня 2014 р.",
+		"type" : "students",
+		"foto": false,
+		"content": false,
+		"link": false
+	},
+	{
+		"titl": "Х Міжнародна наукова конференція «Інтелектуальні системи прийняття рішень та проблеми обчислювального інтелекту» (ISDMCI'2014) присвячена пам'яті професора Рогальського Ф.Б. ",
+		"titlEng": false,
+		"achievement": {
+			"1" : "Бистров Володимир (ВП-41), Максимова Валерія (ВП-41) співавтои доповіді «Генерація псевдовипадкових послідовностей на основі нееквідистантних структур»).»)."
+		},
+		"date": "Залізний Порт, Україна, 28-31 травня 2014 р",
+		"type" : "students",
+		"foto": false,
+		"content": false,
+		"link": false
+	},
+	{
+		"titl": "VII Міжнародна науково-технічна конференція «Комп'ютерні науки та інформаційні технології",
+		"titlEng": "VII International Scientific and Technical Conference «Computer Sciences and Information Technologies» - CSIT’2012",
+		"achievement": {
+			"1" : "Толстіков Євген (ВПВм) (співавтор доповіді «Reconstruction of speech signal based on Zernike moments»)."
+		},
+		"date": "20-24 листопада 2012 р., м. Львів",
+		"type" : "students",
+		"foto": false,
+		"content": false,
+		"link": false
+	},
+	{
+		"titl": false,
+		"titlEng": "The European Scientific and Practical Congress «Global scientific unity 2014»",
+		"achievement": {
+			"1" : "Терлецька Галина (ВПВм), Оліярник Роман (ВП-41) (співавтори доповіді «(Terlecka N.T.), (Oliyarnik R.)  Development protection software document based on the engraving»)."
+		},
+		"date": "Prague, Czech Republiс, 26-27 September 2014",
+		"type" : "students",
+		"foto": false,
+		"content": false,
+		"link": false
+	},
+	{
+		"titl": false,
+		"titlEng": "IХ-th International Conference of Computer Science & Information Technologies 2014 (CSIT'2014)",
+		"achievement": {
+			"1" : "Томащук Тетяна (ВПВм) (співавтор доповіді «Analysis And Development Of Latent Elements As A Method To Protect Documents»)."
+		},
+		"date": "Ukraine, Lviv, 18-22 November 2014в",
+		"type" : "students",
+		"foto": false,
+		"content": false,
+		"link": false
+	},
+	{
+		"titl": "V міжнародна науково-практичнаконференція  «Free/Libre and Open-Source Software Lviv» (FOSS LVIV-2015) ",
+		"titlEng": false,
+		"achievement": {
+			"1" : "Цепак Василина (ВП-31) (автор доповіді «Візуалізація інформації в LaTeX»).",
+			"2" : "Іздрик Ірина  (ВП-31)  (автор доповіді «Аналіз можливостей верстання публікацій шахових партій у видавничій системі LaTeX»).",
+			"3" : "Кінах Ліліана  (ВП-41) (співавтор доповіді «Створення інтерактивних презентацій в LaTeX»)."
+		},
+		"date": "Львів, Україна, 23-27 квітня 2015 р.",
+		"type" : "students",
+		"foto": false,
+		"content": false,
+		"link": false
+	},
+	{
+		"titl": "Міжнародна науково-практична конференція «Комп'ютерні технології та інформаційна безпека»",
+		"titlEng": false,
+		"achievement": {
+			"1" : "рицик Катерина (ВПВм), Титик Роман (ВПВс) (співавтори доповіді «До методу збільшення роздільної здатності зображень на основі ШНМ моделі геометричних перетворень»)."
+		},
+		"date": "Україна, м. Кіровоград, 2-3 липня 2015 р.",
+		"type" : "students",
+		"foto": false,
+		"content": false,
+		"link": false
+	}
+
+]

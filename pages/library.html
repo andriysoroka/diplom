@@ -1,0 +1,17 @@
+<h2 class="text-center">Видавнича діяльність</h2>
+<div class="books">
+	<div class="books-list">
+		<div ng-repeat="book in books" class="book">
+			<h4> {{book.name}} </h4>
+			<div class="teacher-foto"><img src="{{book.foto}}" width="100%;" height="100%" /></div>
+		 	<div class="teacher-info">
+			 	<p ng-if="book.author">{{book.author}}</p>
+			 	<p ng-if="book.title"> {{book.title}}</p>
+			 	<p ng-if="book.link"><a href="{{book.link}}" target="_blank">детальніше тут</a></p>
+			 	<p ng-if="book.code"> Код: {{book.code}}</p>
+			 	<p ng-if="book.date">{{book.date}}</p>
+		 	</div>
+		 	<div class="border-bottom"></div>
+		</div>
+	</div>
+</div>
